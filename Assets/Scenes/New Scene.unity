@@ -1276,7 +1276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38a33098bdf7b741b6483bf5d8f75f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 10
   countText: {fileID: 355659516}
   respawnPoint: {fileID: 1664432215}
   menuControler: {fileID: 776396806}

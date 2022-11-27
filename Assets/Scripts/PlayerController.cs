@@ -79,7 +79,7 @@ public class PlayerController : MonoBehaviour
          
       }
    }
-   void EndGame()
+   void EndGame()     
    {
       menuControler.LostGame();
       gameObject.SetActive(false);
